@@ -42,7 +42,7 @@ const Elements: { name: string; desc: string; command: string; example: string, 
         name: "man",
         desc: "Used to provide manual help oft Sman unix command Sman cat every UNIX command",
         command: "$ man [command]",
-        example: "/man.jpg"
+        example: "/man.png"
       },
     { name: "ls-r", desc: "ls -R gives a recursive listing, including the contents of all subdirectories and their subdirectories and so on.", command: "$ pwd", example: "/ls-r.jpg", },
     { name: "ls-f", desc: "The ls -F command in Linux lists files and directories, and adds a glyph to the end of each file name to indicate its type:", command: "$ pwd", example: "/ls-f.jpg", },
@@ -55,12 +55,12 @@ const Elements: { name: string; desc: string; command: string; example: string, 
         command: "$ uname -a",
         example: "/uname.jpg",
       },
-      { name: "cat", desc: "View file contents", command: "$ cat [filename]", example: "/cat.jpg", },
+      { name: "cat", desc: "View file contents", command: "$ cat [filename]", example: "/cat.png", },
       {
         name: "touch",
         desc: "Create an empty file",
         command: "$ touch [filename]",
-        example: "/touch.jpg",
+        example: "/touch.png",
       },
     {
       name: "mkdir",
